@@ -1,7 +1,7 @@
 # EXL-Term-Depositor-Analysis
 ---------------------------------------------
 
- This project was made as part of the EXL EQ 2022 contest.
+ This project was made as part of the [EXL EQ 2022](http://www.exlanalytics.co.in/eq/frontend/web/) contest.
 
 # Team Members
 ----------------------------------------------------
@@ -27,4 +27,3 @@ In 2018, the firm launched a new investment product, “Term Deposit”, which h
 
 # Analysis Approach
 --------------------------------------------------------------------------------------------
-
