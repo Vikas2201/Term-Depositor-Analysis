@@ -2,6 +2,15 @@
 ---------------------------------------------
 
  This project was made as part of the [EXL EQ 2022](http://www.exlanalytics.co.in/eq/frontend/web/) contest.
+ 
+ # Achievement 
+ ----------------------------------------------
+ 
+ We have team Champions cleared round 1 and 2 of EXL Data Analytics Hackthon.
+ 
+ Announcing the shortlisted teams by EXL :-
+ 
+ ![EXL](https://user-images.githubusercontent.com/76476273/179362100-3331dc5c-2cfd-4771-abb3-9ee3cddc01cd.jpeg)
 
 # Team Members
 ----------------------------------------------------
