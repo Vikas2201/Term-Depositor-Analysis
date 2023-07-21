@@ -77,4 +77,8 @@ The union of top 8 feature model, combined feature model, oversampled model acco
   <h2><b>Further Goal</b></h2>
   To have high conversion rate in the campaign we need to increase positive outcome probability by tuning the campaign parameter such as date and month for given user profile.
 
+# Documentation 
+--------------------------------------------------
+[EXL_Champions_NSUT.pdf](https://github.com/Vikas2201/Term-Depositor-Analysis/files/12130113/EXL_Champions_NSUT.pdf)
+
 
